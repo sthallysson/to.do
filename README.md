@@ -9,5 +9,6 @@
 
  The challenge was to add the functionality of the todo list.
  
-- run the project with `yarn dev` or `yarn build` in the terminal
+- run the project with `yarn dev` in the terminal
+- run `yarn build` for production
 - run the tests using `yarn test`
