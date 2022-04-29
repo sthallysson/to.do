@@ -25,3 +25,5 @@ You must create the functionalities for the three functions present in this file
 
 In the project folder via terminal, run the `yarn dev` or `npm run dev` command
 - to run the tests run the command `yarn test`
+
+### 📖 [Notion](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12)
